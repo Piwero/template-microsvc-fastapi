@@ -1,6 +1,4 @@
-# Backend E-commerce microservices architecture with FastApi, Kafka ...
-Microservices E-Commerce System, a hands-on project designed for developers eager to explore backend development, microservices architecture, and DevOps practices. 
-This project uses FastAPI for building robust microservices, Kafka for efficient communication between services, and Jaeger for distributed tracing.
+# Backend Template for microservices with Poetry, FastApi, Github actions ...
 
 # Instructions
 ## Local development
